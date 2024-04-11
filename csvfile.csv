@@ -1,3 +1,2 @@
-a,b,
-0,1,
-2,3,
+epoch, accuracy,val_accuracy,loss,val_loss
+1,2.33,219.14,2.00320,1.09880
